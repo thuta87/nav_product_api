@@ -1,0 +1,1 @@
+module.exports = "server=DELL\\NWMM;Database=DEDF_NAV_LS;Trusted_Connection=Yes;Driver={SQL Server Native Client 11.0}";
